@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/yesiamrohith" target="blank"><img src="https://img.shields.io/twitter/follow/yesiamrohith?logo=twitter&style=for-the-badge" alt="yesiamrohith" /></a> </p>
 
-- 🔭 I’m currently working on **Traffic Sign Detection**
+- 🔭 I’m currently working on **Noise Reduction in Web Data**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://www.rohithk.tk/project-page](https://www.rohithk.tk/project-page)
 
-- 💬 Ask me about **Python, HTML, CSS JavaScript**
+- 💬 Ask me about **Python, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **katukamrohith@gmail.com**
 
